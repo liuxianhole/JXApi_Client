@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">晶心系统API测试</string>
+    <string name="app_name">晶心系统API测试 -------- 字母表镜像显示测试 “E”、“C”、“D”、“F”、“L”、“N”、“P”、“T”、“Z”、 “K”、 “B”、“Q”、“E”  </string>
     <string name="permission_description">the common permission of TV app</string>
     <string name="backlight">背光测试</string>
 
